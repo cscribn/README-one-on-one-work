@@ -5,7 +5,7 @@
 ### Required
 
 * 🏠 Housekeeping: reminders, upcoming events, time off.
-* (When there's deadlines) Pair programming
+* (When there's a deadline) Pair programming
   * Show me code on which you're currently working
   * We'll discuss: direction, improvements, issues.
   * Bonus: can/should anything you're working on be used by other teams?
