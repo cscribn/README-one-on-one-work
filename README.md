@@ -5,9 +5,10 @@
 ### Required
 
 * 🏠 Housekeeping: reminders, upcoming events, time off.
-* (When there's a deadline requiring more technical focus) Pair programming
+* (When there's a deadline) Pair programming
   * Show me code on which you're currently working
   * We'll discuss: direction, improvements, issues.
+  * Bonus: can/should anything you're working on be used by other teams?
 * (For managers) Give an update on one of your reports.
 
 ### Optional / Report Picks
