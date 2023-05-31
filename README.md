@@ -22,7 +22,7 @@ Adjust as needed.
 * Discuss a career-building goal: create one if needed, get status, outline next steps.
 * Pair programming
   * Show me code on which you're currently working.
-  * Can/should anything you're working on be used by other teams?
+  * Can/should anything you're working on be coordinated with other teams?
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
 
 ## Skip-Level Agenda
