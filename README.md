@@ -14,12 +14,16 @@ Adjust as needed.
 * Review commitments. Any roadblocks, gaps, risks?
 * Give an update on one of your reports.
 * Talk over a team improvement: create one if needed, get status, outline next steps.
-* Discuss a career-building goal: create one if needed, get status, outline next steps.
+* Career-building
+  * Discuss constructive criticism/things to work on.
+  * Take action on a career-building goal: create one if needed, get status, outline next steps.
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
 
 ## Individual Contributor Agenda
 
-* Discuss a career-building goal: create one if needed, get status, outline next steps.
+* Career-building
+  * Discuss constructive criticism/things to work on.
+  * Take action on a career-building goal: create one if needed, get status, outline next steps.
 * Pair programming
   * Show me code on which you're currently working.
   * Can/should anything you're working on be coordinated with other teams?
