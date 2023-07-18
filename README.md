@@ -17,6 +17,7 @@ Adjust as needed.
 * Career-building
   * Discuss constructive criticism/things to work on.
   * Take action on a career-building goal: create one if needed, get status, outline next steps.
+* Is there anything you need to take off/put on your plate?
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
 
 ## Individual Contributor Agenda
