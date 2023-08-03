@@ -9,10 +9,10 @@ Adjust as needed.
 * For embedded team reports: 30 minutes every 2 weeks
 * For off-team reports: 30 minutes every 1 week
 
-## Manager Agenda
+## Manager/Lead Agenda
 
 * Review commitments. Any roadblocks, gaps, risks?
-* Give an update on one of your reports.
+* Give an update on one of your reports/junior team members.
 * Talk over a team improvement: create one if needed, get status, outline next steps.
 * Career-building
   * Discuss constructive criticism/things to work on.
@@ -32,7 +32,7 @@ Adjust as needed.
 
 ## Skip-Level Agenda
 
-* Give an update on your manager.
+* Give an update on your manager/lead.
 * Tell me about your most recent career-building activity.
 * Pair programming
   * Show me code on which you're currently working.
