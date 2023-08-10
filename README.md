@@ -15,25 +15,21 @@ Adjust as needed.
 * Give an update on one of your reports/junior team members.
 * Talk over a team improvement: create one if needed, get status, outline next steps.
 * Career-building
-  * Discuss constructive criticism/things to work on.
   * Take action on a career-building goal: create one if needed, get status, outline next steps.
+  * Discuss constructive criticism/things to work on.
 * Is there anything you need to take off/put on your plate?
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
 
 ## Individual Contributor Agenda
 
 * Career-building
+  * Take action on a career-building goal: create one if needed, get status, outline next steps. 
   * Discuss constructive criticism/things to work on.
-  * Take action on a career-building goal: create one if needed, get status, outline next steps.
-* Pair programming
-  * Show me code on which you're currently working.
-  * Can/should anything you're working on be coordinated with other teams?
+* Show me what you're working on.
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
 
 ## Skip-Level Agenda
 
 * Give an update on your manager/lead.
 * Tell me about your most recent career-building activity.
-* Pair programming
-  * Show me code on which you're currently working.
-  * Can/should anything you're working on be used by other teams?
+* Show me what you're working on.
