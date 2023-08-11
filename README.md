@@ -19,6 +19,7 @@ Adjust as needed.
   * Discuss constructive criticism/things to work on.
 * Is there anything you need to take off/put on your plate?
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
+  * What's going well, not so well, and what could be improved?
 
 ## Individual Contributor Agenda
 
@@ -27,6 +28,7 @@ Adjust as needed.
   * Discuss constructive criticism/things to work on.
 * Show me what you're working on.
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
+  * What's going well, not so well, and what could be improved?
 
 ## Skip-Level Agenda
 
