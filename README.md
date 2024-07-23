@@ -11,7 +11,7 @@ Adjust as needed.
 
 * Any upcoming time off? Will you hand things off? Do you have a backup?
 * Is there anything you need to take off/put on your plate?
-* Review objectives. Any roadblocks or risks? Any gaps?
+* Review objectives. Any roadblocks, risks, gaps?
 * Career-building (if not part of objectives)
   * Take action on a goal: create one if needed, get status, outline next steps.
 * Give an update on one of your reports/junior team members.
@@ -22,7 +22,8 @@ Adjust as needed.
 ## Individual Contributor Agenda
 
 * Any upcoming time off? Will you hand things off? Do you have a backup?
-* Review objectives. Any roadblocks or risks?
+* Check-in on commits, tickets, other metrics.
+* Review objectives. Any roadblocks, risks, gaps?
 * Career-building (if not part of objectives)
   * Take action on a goal: create one if needed, get status, outline next steps.
 * Show me what you're working on.
