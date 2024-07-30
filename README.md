@@ -19,6 +19,18 @@ Adjust as needed.
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
   * What's going well, not so well, and what could be improved?
 
+## Peer Agenda
+
+* Give an update on one of your reports.
+* What are you working on for learning/career-building?
+* Anything we can partner on?
+
+## Skip-Level Agenda
+
+* Give an update on your manager/lead.
+* Tell me about your most recent career-building activity.
+* Show me what you're working on.
+
 ## Individual Contributor Agenda
 
 * Any upcoming time off? Will you hand things off? Do you have a backup?
@@ -29,9 +41,3 @@ Adjust as needed.
 * Show me what you're working on.
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
   * What's going well, not so well, and what could be improved?
-
-## Skip-Level Agenda
-
-* Give an update on your manager/lead.
-* Tell me about your most recent career-building activity.
-* Show me what you're working on.
