@@ -18,6 +18,12 @@ Adjust as needed.
 * Talk over a team improvement: create one if needed, get status, outline next steps.
 * How are you feeling about your job? 10 = best thing ever; 1 = ready to quit. Why?
   * What's going well, not so well, and what could be improved?
+ 
+## Principal Agenda
+
+* Tell me about the team's workload and morale.
+* What team skills/resources are lacking for upcoming work?
+* Any team process/approach that needs to change?
 
 ## Peer Agenda
 
