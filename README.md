@@ -13,6 +13,7 @@ Adjust as needed.
 
 ### Individual Contributor Agenda
 
+* Review long running tickets.
 * Any upcoming time off for which you need hand offs/backups?
 * Tell me about your workload and morale.
 * Review goal progress and add any Career Ladder accomplishments.
