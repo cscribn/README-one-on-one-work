@@ -23,7 +23,7 @@ Adjust as needed.
 
 * Any upcoming time off for which you need handoffs/backups?
 * Tell me about your/the team's workload and morale.
-* What team skill, resource, or process are lacking for upcoming work?
+* Have you noticed a team skill, resource, or process that's lacking?
 * Review goal progress and add any Career Ladder accomplishments.
 
 ### Peer Agenda
