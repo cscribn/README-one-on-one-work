@@ -13,18 +13,20 @@ Adjust as needed.
 
 ### Individual Contributor Agenda
 
-* Review long running tickets.
-* Any upcoming time off for which you need hand offs/backups?
+* Review long running tickets and prioritize.
+* Any upcoming time off. Any handoffs needed?
 * Tell me about your workload and morale.
-* Review goal progress and add any Career Ladder accomplishments.
-* Show me what you're working on or review code metrics.
+* Review accomplishments and growth focus.
+* Review code metrics or show me what you're working on.
+* What can I do better as your manager?
 
 ### Manager/Lead/Principal Agenda
 
-* Any upcoming time off for which you need handoffs/backups?
+* Any upcoming time off. Any handoffs needed?
 * Tell me about your/the team's workload and morale.
 * Have you noticed a team skill, resource, or process that's lacking?
-* Review goal progress and add any Career Ladder accomplishments.
+* Review accomplishments and growth focus.
+* What can I do better as your manager?
 
 ### Peer Agenda
 
