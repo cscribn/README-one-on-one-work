@@ -39,3 +39,4 @@ Adjust as needed.
 * Give an update on your manager/lead.
 * Tell me about your most recent career-building activity.
 * Show me what you're working on.
+* What can I do better for engineering?
