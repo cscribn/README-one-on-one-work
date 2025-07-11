@@ -15,7 +15,7 @@ Adjust as needed.
 
 * Review long running tickets and prioritize.
 * Any upcoming time off. Any handoffs needed?
-* Tell me about your workload and morale.
+* What gave you energy since our last meeting? What drained you?
 * Review accomplishments and growth focus.
 * Review code metrics or show me what you're working on.
 * What can I do better as your manager?
@@ -23,7 +23,7 @@ Adjust as needed.
 ### Manager/Lead/Principal Agenda
 
 * Any upcoming time off. Any handoffs needed?
-* Tell me about your/the team's workload and morale.
+* What is giving your team energy? What is draining them?
 * Have you noticed a team skill, resource, or process that's lacking?
 * Review accomplishments and growth focus.
 * What can I do better as your manager?
@@ -31,7 +31,7 @@ Adjust as needed.
 ### Peer Agenda
 
 * Anything we need to partner on?
-* Tell me about your/the team's workload and morale.
+* What is giving your team energy? What is draining them?
 * What are you working on for learning/career-building?
 
 ### Skip-Level Agenda
