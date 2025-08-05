@@ -15,25 +15,25 @@ Adjust as needed.
 
 * What topics do you have?
 * Review long running tickets and prioritize.
-* Any upcoming time off. Any handoffs needed?
+* Any upcoming multiday time off? Any handoffs needed?
 * What gave you energy since our last meeting? What drained you?
 * Review accomplishments and growth focus.
 * Review code metrics or show me what you're working on.
-* What can I do better as your manager?
+* Anything else/what can I do better as your manager?
 
 ### Manager/Lead/Principal Agenda
 
 * What topics do you have?
-* Any upcoming time off. Any handoffs needed?
-* What is giving your team energy? What is draining them?
+* Any upcoming multiday time off? Any handoffs needed?
+* What is giving you/your team energy? What is draining?
 * Have you noticed a team skill, resource, or process that's lacking?
 * Review accomplishments and growth focus.
-* What can I do better as your manager?
+* Anything else/what can I do better as your manager?
 
 ### Peer Agenda
 
 * Anything we need to partner on?
-* What is giving your team energy? What is draining them?
+* What is giving you/your team energy? What is draining?
 * What are you working on for learning/career-building?
 * What topics do you have?
 
@@ -43,4 +43,4 @@ Adjust as needed.
 * Tell me about your most recent career-building activity.
 * Show me what you're working on.
 * What topics to you have?
-* What can I do better for engineering?
+* Anything else/what can I do better for engineering?
