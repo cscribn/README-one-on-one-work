@@ -39,8 +39,8 @@ Adjust as needed.
 
 ### Skip-Level Agenda
 
-* Give an update on your manager/lead.
 * Tell me about your most recent career-building activity.
 * Show me what you're working on.
-* What topics to you have?
+* Give an update on your manager/lead.
+* What topics do you have?
 * Anything else/what can I do better for engineering?
