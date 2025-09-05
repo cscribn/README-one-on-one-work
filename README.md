@@ -30,7 +30,15 @@ Adjust as needed.
 * Review accomplishments and growth focus.
 * Anything else/what can I do better as your manager?
 
-### Peer Agenda
+### Off-Team Peer Agenda
+* Introductions (5 min): backgrounds, current role, & focus areas.
+* High level product & project overviews (15 min)
+  * What's working well for your team?
+  * Where are you seeing friction?
+* Explore intersections (5 min): overlaps or opportunities to accelerate each other's work.
+* Capture actions.
+
+### On-Team Peer Agenda
 
 * Anything we need to partner on?
 * What is giving you/your team energy? What is draining?
