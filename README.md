@@ -47,7 +47,7 @@ Adjust as needed.
 
 ### Skip-Level Agenda
 
-* Tell me about your most recent career-building activity.
+* Tell me about what you've done lately for career-building.
 * Show/tell me what you're working on.
 * Give an update on your manager/lead.
 * What topics do you have?
