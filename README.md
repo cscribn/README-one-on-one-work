@@ -13,21 +13,19 @@ Adjust as needed.
 
 ### Individual Contributor Agenda
 
-* What topics do you have?
+* What progress did you make since our last meeting, and review growth focus.
 * Review long running tickets and prioritize.
 * Any upcoming multiday time off? Any handoffs needed?
 * What gave you energy since our last meeting? What drained you?
-* Review accomplishments and growth focus.
 * Review code metrics or show me what you're working on.
 * Anything else/what can I do better as your manager?
 
 ### Manager/Lead/Principal Agenda
 
-* What topics do you have?
+* What progress did you make since our last meeting, and review growth focus.
 * Any upcoming multiday time off? Any handoffs needed?
 * What is giving you/your team energy? What is draining?
 * Have you noticed a team skill, resource, or process that's lacking?
-* Review accomplishments and growth focus.
 * Anything else/what can I do better as your manager?
 
 ### Off-Team Peer Agenda
@@ -47,8 +45,7 @@ Adjust as needed.
 
 ### Skip-Level Agenda
 
-* Tell me about what you've done lately for career-building.
 * Show/tell me what you're working on.
+* Tell me about what you've done lately for career-building.
 * Give an update on your manager/lead.
-* What topics do you have?
 * Anything else/what can I do better for engineering?
