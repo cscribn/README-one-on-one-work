@@ -13,7 +13,7 @@ Adjust as needed.
 
 ### Individual Contributor Agenda
 
-* What progress did you make since our last meeting, and review growth focus.
+* What progress have you made since our last meeting, and review growth focus.
 * Review long running tickets and prioritize.
 * Any upcoming multiday time off? Any handoffs needed?
 * What gave you energy since our last meeting? What drained you?
