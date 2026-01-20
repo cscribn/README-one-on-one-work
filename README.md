@@ -22,7 +22,7 @@ Adjust as needed.
 
 ### Manager/Lead/Principal Agenda
 
-* What progress did you make since our last meeting, and review growth focus.
+* What initiative progress has been made since our last meeting, and review growth focus.
 * Any upcoming multiday time off? Any handoffs needed?
 * What is giving you/your team energy? What is draining?
 * Have you noticed a team skill, resource, or process that's lacking?
