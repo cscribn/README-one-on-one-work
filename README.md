@@ -13,16 +13,18 @@ Adjust as needed.
 
 ### Individual Contributor Agenda
 
-* What topics do you have? (E.g., PTO, what's giving/taking energy, or feedback on how I can better support you.)
-* What progress/accomplishments have you made since our last meeting?
+* What topics do you have? (E.g., PTO, what's giving/taking energy.)
+* What accomplishments have you made since our last meeting?
 * Review long running tickets and prioritize.
-* Review code metrics or show me what you're working on.
+* Review code metrics.
+* What can I help with?
 
 ### Manager/Lead/Principal Agenda
 
-* What topics do you have? (E.g., PTO, what's giving/taking energy, or feedback on how I can better support you.)
-* What initiative progress has been made since our last meeting
-* Anything else/what can I do better as your manager?
+* What topics do you have? (E.g., PTO, what's giving/taking energy.)
+* What initiative progress has been made since our last meeting?
+* What accomplishments have you made since our last meeting?
+* What can I help with?
 
 ### Off-Team Peer Agenda
 
@@ -38,11 +40,10 @@ Adjust as needed.
 * Anything we need to partner on?
 * What is giving you/your team energy? What is draining?
 * What are you working on for learning/career-building?
-* What topics do you have?
 
 ### Skip-Level Agenda
 
-* Show/tell me what you're working on.
+* Tell/show me what epics you've been making progress on.
 * Tell me about what you've done lately for career-building.
 * Give an update on your manager/lead.
-* How can I better support you?
+* What can I help with?
